@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  19 SEP 2023 09:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.5.31)  21 SEP 2023 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1626,34 +1626,47 @@ LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <10.95> not available
 ] [5
 
 ]
-<./images/fig1.png, id=90, 303.1325pt x 167.62625pt>
-File: ./images/fig1.png Graphic file (type png)
-<use ./images/fig1.png>
-Package pdftex.def Info: ./images/fig1.png  used on input line 167.
-(pdftex.def)             Requested size: 295.90877pt x 163.63315pt.
 
+! LaTeX Error: File `./images/fig1' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 \end{frame}
+                 
+? 
 [6
 
- <./images/fig1.png>] [7
+] [7
 
 ]
-<./images/fig2.jpg, id=103, 108.405pt x 78.0516pt>
-File: ./images/fig2.jpg Graphic file (type jpg)
-<use ./images/fig2.jpg>
-Package pdftex.def Info: ./images/fig2.jpg  used on input line 203.
-(pdftex.def)             Requested size: 128.0374pt x 92.19774pt.
- [8
 
- <./images/fig2.jpg>]
-<./images/fig3.png, id=110, 1284.8pt x 671.50874pt>
-File: ./images/fig3.png Graphic file (type png)
-<use ./images/fig3.png>
-Package pdftex.def Info: ./images/fig3.png  used on input line 220.
-(pdftex.def)             Requested size: 241.84842pt x 126.3994pt.
- [9
+! LaTeX Error: File `./images/fig2' not found.
 
- <./images/fig3.png>]
-[10
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 \end{frame}
+                 
+? 
+[8
+
+]
+
+! LaTeX Error: File `./images/fig3' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.220 \end{frame}
+                 
+? 
+[9
+
+] [10
 
 ] [11
 
@@ -1739,18 +1752,19 @@ LaTeX Font Info:    Trying to load font information for U+mvs on input line 486
 [27
 
 ]
-<./images/fig4.png, id=227, 91.542pt x 91.542pt>
-File: ./images/fig4.png Graphic file (type png)
-<use ./images/fig4.png>
-Package pdftex.def Info: ./images/fig4.png  used on input line 532.
-(pdftex.def)             Requested size: 241.84842pt x 241.87556pt.
 
-Overfull \vbox (23.68947pt too high) detected at line 532
- []
+! LaTeX Error: File `./images/fig4' not found.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.532 \end{frame}
+                 
+? 
 [28
 
- <./images/fig4.png (PNG copy)>]
+]
 ! Undefined control sequence.
 \beamer@doifinframe ...om each parent $p$ \biskip 
                                                   \par \begin {center} \text...
@@ -1818,42 +1832,62 @@ l.607 \end{frame}
 [47
 
 ]
-<./images/ball.jpg, id=332, 481.8pt x 361.35pt>
-File: ./images/ball.jpg Graphic file (type jpg)
-<use ./images/ball.jpg>
-Package pdftex.def Info: ./images/ball.jpg  used on input line 898.
-(pdftex.def)             Requested size: 184.9429pt x 138.70389pt.
+
+! LaTeX Error: File `./images/ball' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.898 \end{frame}
+                 
+? 
 LaTeX Font Info:    Trying to load font information for OT1+cmtl on input line 
 898.
- (/usr/share/texlive/texmf-dist/tex/latex/cmbright/ot1cmtl.fd
+(/usr/share/texlive/texmf-dist/tex/latex/cmbright/ot1cmtl.fd
 File: ot1cmtl.fd 2005/04/13 v8.1 (WaS)
 ) [48
 
- <./images/ball.jpg>]
-<./images/mario.jpg, id=339, 1284.8pt x 722.7pt>
-File: ./images/mario.jpg Graphic file (type jpg)
-<use ./images/mario.jpg>
-Package pdftex.def Info: ./images/mario.jpg  used on input line 907.
-(pdftex.def)             Requested size: 227.62204pt x 128.02927pt.
- [49
+]
 
- <./images/mario.jpg>]
-<./images/cartpole.png, id=347, 519.9425pt x 460.72125pt>
-File: ./images/cartpole.png Graphic file (type png)
-<use ./images/cartpole.png>
-Package pdftex.def Info: ./images/cartpole.png  used on input line 916.
-(pdftex.def)             Requested size: 199.16928pt x 176.48189pt.
- [50
+! LaTeX Error: File `./images/mario' not found.
 
- <./images/cartpole.png>]
-<./images/antenna.jpg, id=355, 292.09125pt x 292.09125pt>
-File: ./images/antenna.jpg Graphic file (type jpg)
-<use ./images/antenna.jpg>
-Package pdftex.def Info: ./images/antenna.jpg  used on input line 923.
-(pdftex.def)             Requested size: 184.9429pt x 184.94995pt.
- [51
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.907 \end{frame}
+                 
+? 
+[49
 
- <./images/antenna.jpg>] [52
+]
+
+! LaTeX Error: File `./images/cartpole' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.916 \end{frame}
+                 
+? 
+[50
+
+]
+
+! LaTeX Error: File `./images/antenna' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.923 \end{frame}
+                 
+? 
+[51
+
+] [52
 
 ] [53
 
@@ -1882,18 +1916,19 @@ l.973 \end{frame}
 [54
 
 ]
-<./images/gecco.png, id=378, 419.166pt x 390.258pt>
-File: ./images/gecco.png Graphic file (type png)
-<use ./images/gecco.png>
-Package pdftex.def Info: ./images/gecco.png  used on input line 981.
-(pdftex.def)             Requested size: 241.84842pt x 225.17073pt.
 
-Overfull \vbox (6.98463pt too high) detected at line 981
- []
+! LaTeX Error: File `./images/gecco' not found.
 
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.981 \end{frame}
+                 
+? 
 [55
 
- <./images/gecco.png>]
+]
 \tf@nav=\write6
 \openout6 = `genetic_algorithms.nav'.
 
@@ -1912,10 +1947,10 @@ Package rerunfilecheck Info: File `genetic_algorithms.out' has not changed.
 (rerunfilecheck)             Checksum: A7372310C444ACEB4C2047D8E9583FEB;233.
  ) 
 Here is how much of TeX's memory you used:
- 37802 strings out of 482543
- 899412 string characters out of 5955241
+ 37881 strings out of 482543
+ 900533 string characters out of 5955241
  1343156 words of memory out of 5000000
- 51880 multiletter control sequences out of 15000+600000
+ 51948 multiletter control sequences out of 15000+600000
  547054 words of font info for 77 fonts, out of 8000000 for 9000
  497 hyphenation exceptions out of 8191
  64i,31n,103p,785b,1362s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1935,10 +1970,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/hfbright/hfbrsy10.pfb></usr/share
 st/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/font
 s/type1/urw/zapfding/uzdr.pfb>
-Output written on genetic_algorithms.pdf (55 pages, 618148 bytes).
+Output written on genetic_algorithms.pdf (55 pages, 210527 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
- 353 compressed objects within 4 object streams
+ 456 PDF objects out of 1000 (max. 8388607)
+ 352 compressed objects within 4 object streams
  115 named destinations out of 1000 (max. 500000)
- 240 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 195 words of extra memory for PDF output out of 10000 (max. 10000000)
 
